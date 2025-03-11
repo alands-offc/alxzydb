@@ -1,5 +1,8 @@
 {
     "tools": {
         "totalreq": 3
+    },
+    "downloader": {
+        "totalreq": 1
     }
 }
