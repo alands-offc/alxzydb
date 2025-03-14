@@ -1,6 +1,6 @@
 {
     "tools": {
-        "totalreq": 10
+        "totalreq": 11
     },
     "downloader": {
         "totalreq": 32
