@@ -1,15 +1,15 @@
 [
   {
-    "name": "Panel Ptreodactyl 1",
-    "description": "Ptreodactyl panel RAM: 1GB, DISK: 1GB",
-    "thumbnail": "https://cdn.alands.xyz/files/6825481d60f084a62eeb548d?filename=install-pterodactyl-panel-for-you%20(1).jpg",
+    "name": "Panel Ptreodactyl public 1",
+    "description": "Ptreodactyl panel public RAM: 1GB, DISK: 1GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 1000,
     "category": "hosting"
   },
   {
-    "name": "Panel Ptreodactyl 2",
-    "description": "Ptreodactyl panel RAM: 2GB, DISK: 2GB",
-    "thumbnail": "https://cdn.alands.xyz/files/6825481d60f084a62eeb548d?filename=install-pterodactyl-panel-for-you%20(1).jpg",
+    "name": "Panel Ptreodactyl public 2",
+    "description": "Ptreodactyl panel public RAM: 2GB, DISK: 2GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 2000,
     "category": "hosting"
   }
