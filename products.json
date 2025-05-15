@@ -19,5 +19,19 @@
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 3000,
     "category": "hosting"
+  },
+  {
+    "name": "Panel Ptreodactyl public 4",
+    "description": "Ptreodactyl panel public RAM: 4GB, DISK: 4GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
+    "price": 4000,
+    "category": "hosting"
+  },
+  {
+    "name": "Panel Ptreodactyl public 5",
+    "description": "Ptreodactyl panel public RAM: 5GB, DISK: 5GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
+    "price": 5000,
+    "category": "hosting"
   }
 ]
