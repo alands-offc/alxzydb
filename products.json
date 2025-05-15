@@ -83,14 +83,24 @@
     "price": 15000,
     "category": "hosting"
   },
-  { "name": "Domain .my.id 1tahun",
+  { "name": "Domain .my.id 1tahun (promo)",
     "description": "Domain .my.id murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 45000
   },
-  { "name": "Domain .store 1tahun",
+  { "name": "Domain .store 1tahun (promo)",
     "description": "Domain .store murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 55000
+  },
+  { "name": "Domain .site 1tahun (promo)",
+    "description": "Domain .site murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
+    "price": 45000
+  },
+  { "name": "Domain .asia 1tahun (promo)",
+    "description": "Domain .asia murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
+    "price": 100000
   }
 ]
