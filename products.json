@@ -38,7 +38,14 @@
   {
     "name": "namaproduk",
     "description": "deskripsi",
-    "thumbnail": "f",
+    "thumbnail": "fto",
+    "price": 99.99,
+    "category": "new"
+  },
+  {
+    "name": "namaproduk",
+    "description": "deskripsi",
+    "thumbnail": "foto",
     "price": 99.99,
     "category": "new"
   }
