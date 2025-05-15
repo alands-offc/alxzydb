@@ -69,5 +69,12 @@
     "thumbnail": "foto400x300",
     "price": 1,
     "category": "new"
+  },
+  {
+    "name": "namaproduk",
+    "description": "deskripsi",
+    "thumbnail": "foto400x300",
+    "price": 1000,
+    "category": "new"
   }
 ]
