@@ -83,5 +83,12 @@
     "thumbnail": "foto400x300",
     "price": 1000,
     "category": "s"
+  },
+  {
+    "name": "namaproduk",
+    "description": "deskripsi",
+    "thumbnail": "foto400x300",
+    "price": 1000,
+    "category": "smm"
   }
 ]
