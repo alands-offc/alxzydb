@@ -4,6 +4,7 @@
     "description": "Ptreodactyl panel RAM: 1GB, DISK: 1GB",
     "thumbnail": "https://cdn.alands.xyz/files/6825481d60f084a62eeb548d?filename=install-pterodactyl-panel-for-you%20(1).jpg",
     "price": 1000,
-    "category": "panel"
+    "category": "panel",
+    "stock": 9999
   }
 ]
