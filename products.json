@@ -34,5 +34,12 @@
     "thumbnail": "o",
     "price": 99.99,
     "category": "new"
+  },
+  {
+    "name": "namaproduk",
+    "description": "deskripsi",
+    "thumbnail": "fto",
+    "price": 99.99,
+    "category": "new"
   }
 ]
