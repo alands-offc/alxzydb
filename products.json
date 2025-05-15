@@ -27,5 +27,12 @@
     "thumbnail": "oto",
     "price": 99.99,
     "category": "new"
+  },
+  {
+    "name": "namaproduk",
+    "description": "deskripsi",
+    "thumbnail": "o",
+    "price": 99.99,
+    "category": "new"
   }
 ]
