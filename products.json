@@ -1,1 +1,9 @@
-
+[
+  {
+    "name": "NewProduct",
+    "description": "This is a new product",
+    "thumbnail": "new.jpg",
+    "price": 99.99,
+    "category": "new"
+  }
+]
