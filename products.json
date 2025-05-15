@@ -12,5 +12,12 @@
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 2000,
     "category": "hosting"
+  },
+  {
+    "name": "Panel Ptreodactyl public 3",
+    "description": "Ptreodactyl panel public RAM: 3GB, DISK: 3GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
+    "price": 3000,
+    "category": "hosting"
   }
 ]
