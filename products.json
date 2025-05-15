@@ -48,5 +48,12 @@
     "thumbnail": "foto",
     "price": 99.99,
     "category": "new"
+  },
+  {
+    "name": "namaproduk",
+    "description": "deskripsi",
+    "thumbnail": "foto400",
+    "price": 99.99,
+    "category": "new"
   }
 ]
