@@ -34,11 +34,25 @@
     "price": 5500,
     "category": "hosting"
   },
+    {
+    "name": "Panel Ptreodactyl public 6",
+    "description": "Ptreodactyl panel public RAM: 6GB, DISK: 6GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
+    "price": 6500,
+    "category": "hosting"
+  },
+    {
+    "name": "Panel Ptreodactyl public 7",
+    "description": "Ptreodactyl panel public RAM: 7GB, DISK: 7GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
+    "price": 6500,
+    "category": "hosting"
+  },
   {
     "name": "Panel Ptreodactyl public unliminted",
     "description": "Ptreodactyl panel public ram/disk no limit",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
-    "price": 10000,
+    "price": 11000,
     "category": "hosting"
   },
   {
@@ -77,10 +91,24 @@
     "category": "hosting"
   },
   {
+    "name": "Panel Ptreodactyl private 6",
+    "description": "Ptreodactyl panel private RAM: 6GB, DISK: 6GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
+    "price": 7500,
+    "category": "hosting"
+  },
+  {
+    "name": "Panel Ptreodactyl private 7",
+    "description": "Ptreodactyl panel private RAM: 7GB, DISK: 7GB",
+    "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
+    "price": 9500,
+    "category": "hosting"
+  },
+  {
     "name": "Panel Ptreodactyl private unliminted",
     "description": "Ptreodactyl panel private no limit ram/disk",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
-    "price": 15000,
+    "price": 16000,
     "category": "hosting"
   },
   { "name": "Domain .my.id 1tahun (promo)",
