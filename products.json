@@ -1,164 +1,164 @@
 [
   {
     "_id": "product-1",
-    "name": "Panel Ptreodactyl public 1",
-    "description": "Ptreodactyl panel public RAM: 1GB, DISK: 1GB",
+    "name": "Pterodactyl Public Panel - Paket Basic",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 1GB, Disk 1GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 1500,
     "category": "hosting"
   },
   {
     "_id": "product-2",
-    "name": "Panel Ptreodactyl public 2",
-    "description": "Ptreodactyl panel public RAM: 2GB, DISK: 2GB",
+    "name": "Pterodactyl Public Panel - Paket Standard",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 2GB, Disk 2GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 2500,
     "category": "hosting"
   },
   {
     "_id": "product-3",
-    "name": "Panel Ptreodactyl public 3",
-    "description": "Ptreodactyl panel public RAM: 3GB, DISK: 3GB",
+    "name": "Pterodactyl Public Panel - Paket Lanjutan",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 3GB, Disk 3GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 3500,
     "category": "hosting"
   },
   {
     "_id": "product-4",
-    "name": "Panel Ptreodactyl public 4",
-    "description": "Ptreodactyl panel public RAM: 4GB, DISK: 4GB",
+    "name": "Pterodactyl Public Panel - Paket Expert",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 4GB, Disk 4GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 4500,
     "category": "hosting"
   },
   {
     "_id": "product-5",
-    "name": "Panel Ptreodactyl public 5",
-    "description": "Ptreodactyl panel public RAM: 5GB, DISK: 5GB",
+    "name": "Pterodactyl Public Panel - Paket Premium",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 5GB, Disk 5GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 5500,
     "category": "hosting"
   },
     {
     "_id": "product-6",
-    "name": "Panel Ptreodactyl public 6",
-    "description": "Ptreodactyl panel public RAM: 6GB, DISK: 6GB",
+    "name": "Pterodactyl Public Panel - Paket Enterprise",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 6GB, Disk 6GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 6500,
     "category": "hosting"
   },
     {
     "_id": "product-7",
-    "name": "Panel Ptreodactyl public 7",
-    "description": "Ptreodactyl panel public RAM: 7GB, DISK: 7GB",
+    "name": "Pterodactyl Public Panel - Paket Profesional",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 7GB, Disk 7GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 6500,
     "category": "hosting"
   },
   {
     "_id": "product-8",
-    "name": "Panel Ptreodactyl public unliminted",
-    "description": "Ptreodactyl panel public ram/disk no limit",
+    "name": "Pterodactyl Public Panel - Unlimited",
+    "description": "Panel Pterodactyl untuk penggunaan publik dengan sumber daya RAM dan Disk tanpa batas.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 11000,
     "category": "hosting"
   },
   {
     "_id": "product-9",
-    "name": "Panel Ptreodactyl private 1",
-    "description": "Ptreodactyl panel private RAM: 1GB, DISK: 1GB",
+    "name": "Pterodactyl Private Panel - Paket Basic",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 1GB, Disk 1GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 2500,
     "category": "hosting"
   },
   {
     "_id": "product-10",
-    "name": "Panel Ptreodactyl private 2",
-    "description": "Ptreodactyl panel private RAM: 2GB, DISK: 2GB",
+    "name": "Pterodactyl Private Panel - Paket Standard",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 2GB, Disk 2GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 3500,
     "category": "hosting"
   },
   {
     "_id": "product-11",
-    "name": "Panel Ptreodactyl private 3",
-    "description": "Ptreodactyl panel private RAM: 3GB, DISK: 3GB",
+    "name": "Pterodactyl Private Panel - Paket Lanjutan",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 3GB, Disk 3GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 4500,
     "category": "hosting"
   },
   {
     "_id": "product-12",
-    "name": "Panel Ptreodactyl private 4",
-    "description": "Ptreodactyl panel private RAM: 4GB, DISK: 4GB",
+    "name": "Pterodactyl Private Panel - Paket Expert",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 4GB, Disk 4GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 5500,
     "category": "hosting"
   },
     {
     "_id": "product-13",
-    "name": "Panel Ptreodactyl private 5",
-    "description": "Ptreodactyl panel private RAM: 5GB, DISK: 5GB",
+    "name": "Pterodactyl Private Panel - Paket Premium",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 5GB, Disk 5GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 6500,
     "category": "hosting"
   },
   {
     "_id": "product-14",
-    "name": "Panel Ptreodactyl private 6",
-    "description": "Ptreodactyl panel private RAM: 6GB, DISK: 6GB",
+    "name": "Pterodactyl Private Panel - Paket Enterprise",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 6GB, Disk 6GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 7500,
     "category": "hosting"
   },
   {
     "_id": "product-15",
-    "name": "Panel Ptreodactyl private 7",
-    "description": "Ptreodactyl panel private RAM: 7GB, DISK: 7GB",
+    "name": "Pterodactyl Private Panel - Paket Profesional",
+    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 7GB, Disk 7GB.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 9500,
     "category": "hosting"
   },
   {
     "_id": "product-16",
-    "name": "Panel Ptreodactyl private unliminted",
-    "description": "Ptreodactyl panel private no limit ram/disk",
+    "name": "Pterodactyl Private Panel - Unlimited",
+    "description": "Panel Pterodactyl privat dengan sumber daya RAM dan Disk tanpa batas.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 16000,
     "category": "hosting"
   },
   {
     "_id": "domain-1",
-    "name": "Domain .my.id 1tahun (promo)",
-    "description": "Domain .my.id murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "name": "Domain .my.id - 1 Tahun (Promo)",
+    "description": "Penawaran spesial domain .my.id untuk 1 tahun. Dapat ditransfer ke Cloudflare dan diperpanjang.",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 45000
   },
   {
     "_id": "domain-2",
-    "name": "Domain .store 1tahun (promo)",
-    "description": "Domain .store murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "name": "Domain .store - 1 Tahun (Promo)",
+    "description": "Penawaran spesial domain .store untuk 1 tahun. Dapat ditransfer ke Cloudflare dan diperpanjang.",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 55000
   },
   {
     "_id": "domain-3",
-    "name": "Domain .site 1tahun (promo)",
-    "description": "Domain .site murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "name": "Domain .site - 1 Tahun (Promo)",
+    "description": "Penawaran spesial domain .site untuk 1 tahun. Dapat ditransfer ke Cloudflare dan diperpanjang.",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 45000
   },
   {
     "_id": "domain-4",
-    "name": "Domain .asia 1tahun (promo)",
-    "description": "Domain .asia murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "name": "Domain .asia - 1 Tahun (Promo)",
+    "description": "Penawaran spesial domain .asia untuk 1 tahun. Dapat ditransfer ke Cloudflare dan diperpanjang.",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 100000
   },
   {
     "_id": "domain-5",
-    "name": "Domain .com 1tahun (promo)",
-    "description": "Domain .com murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
+    "name": "Domain .com - 1 Tahun (Promo)",
+    "description": "Penawaran spesial domain .com untuk 1 tahun. Dapat ditransfer ke Cloudflare dan diperpanjang.",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 160000
   }
