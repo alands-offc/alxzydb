@@ -1,5 +1,6 @@
 [
   {
+    "_id": "product-1",
     "name": "Panel Ptreodactyl public 1",
     "description": "Ptreodactyl panel public RAM: 1GB, DISK: 1GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -7,6 +8,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-2",
     "name": "Panel Ptreodactyl public 2",
     "description": "Ptreodactyl panel public RAM: 2GB, DISK: 2GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -14,6 +16,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-3",
     "name": "Panel Ptreodactyl public 3",
     "description": "Ptreodactyl panel public RAM: 3GB, DISK: 3GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -21,6 +24,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-4",
     "name": "Panel Ptreodactyl public 4",
     "description": "Ptreodactyl panel public RAM: 4GB, DISK: 4GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -28,6 +32,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-5",
     "name": "Panel Ptreodactyl public 5",
     "description": "Ptreodactyl panel public RAM: 5GB, DISK: 5GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -35,6 +40,7 @@
     "category": "hosting"
   },
     {
+    "_id": "product-6",
     "name": "Panel Ptreodactyl public 6",
     "description": "Ptreodactyl panel public RAM: 6GB, DISK: 6GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -42,6 +48,7 @@
     "category": "hosting"
   },
     {
+    "_id": "product-7",
     "name": "Panel Ptreodactyl public 7",
     "description": "Ptreodactyl panel public RAM: 7GB, DISK: 7GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -49,6 +56,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-8",
     "name": "Panel Ptreodactyl public unliminted",
     "description": "Ptreodactyl panel public ram/disk no limit",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
@@ -56,6 +64,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-9",
     "name": "Panel Ptreodactyl private 1",
     "description": "Ptreodactyl panel private RAM: 1GB, DISK: 1GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -63,6 +72,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-10",
     "name": "Panel Ptreodactyl private 2",
     "description": "Ptreodactyl panel private RAM: 2GB, DISK: 2GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -70,6 +80,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-11",
     "name": "Panel Ptreodactyl private 3",
     "description": "Ptreodactyl panel private RAM: 3GB, DISK: 3GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -77,6 +88,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-12",
     "name": "Panel Ptreodactyl private 4",
     "description": "Ptreodactyl panel private RAM: 4GB, DISK: 4GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -84,6 +96,7 @@
     "category": "hosting"
   },
     {
+    "_id": "product-13",
     "name": "Panel Ptreodactyl private 5",
     "description": "Ptreodactyl panel private RAM: 5GB, DISK: 5GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -91,6 +104,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-14",
     "name": "Panel Ptreodactyl private 6",
     "description": "Ptreodactyl panel private RAM: 6GB, DISK: 6GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -98,6 +112,7 @@
     "category": "hosting"
   },
   {
+    "_id": "product-15",
     "name": "Panel Ptreodactyl private 7",
     "description": "Ptreodactyl panel private RAM: 7GB, DISK: 7GB",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
@@ -105,33 +120,44 @@
     "category": "hosting"
   },
   {
+    "_id": "product-16",
     "name": "Panel Ptreodactyl private unliminted",
     "description": "Ptreodactyl panel private no limit ram/disk",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 16000,
     "category": "hosting"
   },
-  { "name": "Domain .my.id 1tahun (promo)",
+  {
+    "_id": "domain-1",
+    "name": "Domain .my.id 1tahun (promo)",
     "description": "Domain .my.id murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 45000
   },
-  { "name": "Domain .store 1tahun (promo)",
+  {
+    "_id": "domain-2",
+    "name": "Domain .store 1tahun (promo)",
     "description": "Domain .store murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 55000
   },
-  { "name": "Domain .site 1tahun (promo)",
+  {
+    "_id": "domain-3",
+    "name": "Domain .site 1tahun (promo)",
     "description": "Domain .site murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 45000
   },
-  { "name": "Domain .asia 1tahun (promo)",
+  {
+    "_id": "domain-4",
+    "name": "Domain .asia 1tahun (promo)",
     "description": "Domain .asia murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 100000
   },
-  { "name": "Domain .com 1tahun (promo)",
+  {
+    "_id": "domain-5",
+    "name": "Domain .com 1tahun (promo)",
     "description": "Domain .com murah bisa di transfer ke cloudflare, bisa di perpanjang juga",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 160000
