@@ -2,7 +2,7 @@
   {
     "_id": "product-1",
     "name": "Pterodactyl Public Panel - Paket Basic",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 1GB, Disk 1GB.",
+    "description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 1125,🛢️DISK : 1125,📽️CPU : 40%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 1500,
     "category": "hosting"
@@ -10,7 +10,7 @@
   {
     "_id": "product-2",
     "name": "Pterodactyl Public Panel - Paket Standard",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 2GB, Disk 2GB.",
+    "description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 2125,🛢️DISK : 2125,📽️CPU : 60%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 2500,
     "category": "hosting"
@@ -18,7 +18,7 @@
   {
     "_id": "product-3",
     "name": "Pterodactyl Public Panel - Paket Lanjutan",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 3GB, Disk 3GB.",
+"description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 3125,🛢️DISK : 3125,📽️CPU : 80%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 3500,
     "category": "hosting"
@@ -26,7 +26,7 @@
   {
     "_id": "product-4",
     "name": "Pterodactyl Public Panel - Paket Expert",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 4GB, Disk 4GB.",
+"description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 4125,🛢️DISK : 4125,📽️CPU : 100%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 4500,
     "category": "hosting"
@@ -34,7 +34,7 @@
   {
     "_id": "product-5",
     "name": "Pterodactyl Public Panel - Paket Premium",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 5GB, Disk 5GB.",
+"description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 5125,🛢️DISK : 5125,📽️CPU : 120%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 5500,
     "category": "hosting"
@@ -42,7 +42,7 @@
     {
     "_id": "product-6",
     "name": "Pterodactyl Public Panel - Paket Enterprise",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 6GB, Disk 6GB.",
+    "description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 6125,🛢️DISK : 6125,📽️CPU : 140%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 6500,
     "category": "hosting"
@@ -50,7 +50,7 @@
     {
     "_id": "product-7",
     "name": "Pterodactyl Public Panel - Paket Profesional",
-    "description": "Panel Pterodactyl untuk penggunaan publik dengan alokasi sumber daya terjamin: RAM 7GB, Disk 7GB.",
+"description": "🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 7125,🛢️DISK : 7125,📽️CPU : 160%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a4d102fd155c9986bae?filename=IMG-20250515-WA0053.jpg",
     "price": 6500,
     "category": "hosting"
@@ -66,7 +66,7 @@
   {
     "_id": "product-9",
     "name": "Pterodactyl Private Panel - Paket Basic",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 1GB, Disk 1GB.",
+    "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 1125,🛢️DISK : 1125,📽️CPU : 40%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 2500,
     "category": "hosting"
@@ -74,7 +74,7 @@
   {
     "_id": "product-10",
     "name": "Pterodactyl Private Panel - Paket Standard",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 2GB, Disk 2GB.",
+        "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 2125,🛢️DISK : 2125,📽️CPU : 60%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 3500,
     "category": "hosting"
@@ -82,7 +82,7 @@
   {
     "_id": "product-11",
     "name": "Pterodactyl Private Panel - Paket Lanjutan",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 3GB, Disk 3GB.",
+    "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 3125,🛢️DISK : 3125,📽️CPU : 80%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 4500,
     "category": "hosting"
@@ -90,7 +90,7 @@
   {
     "_id": "product-12",
     "name": "Pterodactyl Private Panel - Paket Expert",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 4GB, Disk 4GB.",
+    "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 4125,🛢️DISK : 4125,📽️CPU : 100%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 5500,
     "category": "hosting"
@@ -98,7 +98,7 @@
     {
     "_id": "product-13",
     "name": "Pterodactyl Private Panel - Paket Premium",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 5GB, Disk 5GB.",
+    "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 5125,🛢️DISK : 5125,📽️CPU : 120%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 6500,
     "category": "hosting"
@@ -106,7 +106,7 @@
   {
     "_id": "product-14",
     "name": "Pterodactyl Private Panel - Paket Enterprise",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 6GB, Disk 6GB.",
+    "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 6125,🛢️DISK : 6125,📽️CPU : 140%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 7500,
     "category": "hosting"
@@ -114,7 +114,7 @@
   {
     "_id": "product-15",
     "name": "Pterodactyl Private Panel - Paket Profesional",
-    "description": "Panel Pterodactyl privat dengan alokasi sumber daya khusus: RAM 7GB, Disk 7GB.",
+    "description": "Panel Pterodactyl private 🕐 akses panel 1 Bulan♻️ Garansi 1 Bulan unlimited replace💾 RAM : 7125,🛢️DISK : 7125,📽️CPU : 160%.",
     "thumbnail": "https://cdn.alands.xyz/files/68256a64102fd155c9986bb0?filename=IMG-20250515-WA0054.jpg",
     "price": 9500,
     "category": "hosting"
