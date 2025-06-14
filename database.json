@@ -19,6 +19,31 @@
       "isBanned": false,
       "welcome": false,
       "detect": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
+    },
+    "120363168950470533@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
+    },
+    "6285714750836@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
+    },
+    "6285746865266@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
+    },
+    "6289505296461@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
     }
   },
   "settings": {
@@ -36,7 +61,7 @@
       "registered": false,
       "name": "alxy",
       "age": -1,
-      "command": 14,
+      "command": 16,
       "regTime": -1,
       "afk": -1,
       "afkReason": "",
@@ -137,6 +162,91 @@
       "lastclaim": 0,
       "registered": false,
       "name": "+62 881-0361-35040",
+      "age": -1,
+      "command": 0,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    },
+    "6282296302879@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 822-9630-2879",
+      "age": -1,
+      "command": 0,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    },
+    "6287849360993@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 878-4936-0993",
+      "age": -1,
+      "command": 0,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    },
+    "62895351082121@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 895-3510-82121",
+      "age": -1,
+      "command": 0,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    },
+    "6285708695076@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 857-0869-5076",
+      "age": -1,
+      "command": 0,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    },
+    "6281367670870@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 813-6767-0870",
       "age": -1,
       "command": 0,
       "regTime": -1,
