@@ -64,13 +64,13 @@
       "autolevelup": true
     },
     "6285876830674@s.whatsapp.net": {
-      "exp": 10,
+      "exp": 20,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
       "name": "+62 858-7683-0674",
       "age": -1,
-      "command": 1,
+      "command": 2,
       "regTime": -1,
       "afk": -1,
       "afkReason": "",
