@@ -44,6 +44,11 @@
       "isBanned": false,
       "welcome": false,
       "detect": false
+    },
+    "120363399667534762@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
     }
   },
   "settings": {
@@ -61,7 +66,7 @@
       "registered": true,
       "name": "alxzy",
       "age": 16,
-      "command": 18,
+      "command": 19,
       "regTime": 1749884061479,
       "afk": -1,
       "afkReason": "",
@@ -247,6 +252,23 @@
       "lastclaim": 0,
       "registered": false,
       "name": "+62 813-6767-0870",
+      "age": -1,
+      "command": 0,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    },
+    "6289505296461@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 895-0529-6461",
       "age": -1,
       "command": 0,
       "regTime": -1,
