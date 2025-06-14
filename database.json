@@ -35,6 +35,23 @@
       "level": 0,
       "role": "Beginner",
       "autolevelup": true
+    },
+    "6282395194896@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+62 823-9519-4896",
+      "age": -1,
+      "command": 1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
     }
   },
   "stats": {}
