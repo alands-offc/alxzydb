@@ -1,0 +1,36 @@
+{
+  "chats": {
+    "6283899858313@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false
+    }
+  },
+  "settings": {
+    "6283899858313@s.whatsapp.net": {
+      "anticall": false,
+      "autoread": false,
+      "self": false
+    }
+  },
+  "users": {
+    "6283899858313@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "alxy",
+      "age": -1,
+      "command": 1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Beginner",
+      "autolevelup": true
+    }
+  },
+  "stats": {}
+}
