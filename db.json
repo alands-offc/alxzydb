@@ -15,20 +15,20 @@
   },
   "users": {
     "6283899858313@s.whatsapp.net": {
-      "exp": 110,
+      "exp": 211,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
       "name": "alxy",
       "age": -1,
-      "command": 5,
+      "command": 6,
       "regTime": -1,
       "afk": -1,
       "afkReason": "",
       "banned": false,
       "pc": 0,
-      "level": 0,
-      "role": "Beginner",
+      "level": 1,
+      "role": "🧱 Beginner",
       "autolevelup": true
     }
   },
