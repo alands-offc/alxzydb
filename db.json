@@ -15,13 +15,13 @@
   },
   "users": {
     "6283899858313@s.whatsapp.net": {
-      "exp": 427,
+      "exp": 527,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
       "name": "alxy",
       "age": -1,
-      "command": 10,
+      "command": 11,
       "regTime": -1,
       "afk": -1,
       "afkReason": "",
