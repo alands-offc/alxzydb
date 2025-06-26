@@ -161,5 +161,33 @@
     "description": "Penawaran spesial domain .com untuk 1 tahun. Dapat ditransfer ke Cloudflare dan diperpanjang.",
     "thumbnail": "https://cdn.alands.xyz/files/68261b616f9c78dffc9c8a98?filename=Sekilas-tentang-Domain-1536x1152%20(1).jpg",
     "price": 160000
+  },
+  {
+    "_id": "vps-do-1",
+    "name": "VPS Digital Ocean V1",
+    "description": "VPS Digital Ocean dengan spesifikasi 2 CPU | 2 GB RAM | 3 TB Bandwidth - 1 Bulan\n- Free Install Panel Pterodactyl\n- Free Install Node/Wings\n- Free Request: Reg, OS, Versi\n- Free Request Nama Subdomain\n- Free Egg Bot WhatsApp V23+\n- Free Egg Minecraft/SAMP\n- Garansi ON 15 Hari (1x Replace)\n- VPS Aktif 30 Hari\n- VPS Pasti Awet (Bill PayPal)",
+    "thumbnail": "https://tmpfiles.org/dl/3149857/1750909378816.jpg",
+    "price": 30000
+  },
+  {
+    "_id": "vps-do-2",
+    "name": "VPS Digital Ocean V2",
+    "description": "VPS Digital Ocean dengan spesifikasi 2 CPU | 4 GB RAM | 4 TB Bandwidth - 1 Bulan\n- Free Install Panel Pterodactyl\n- Free Install Node/Wings\n- Free Request: Reg, OS, Versi\n- Free Request Nama Subdomain\n- Free Egg Bot WhatsApp V23+\n- Free Egg Minecraft/SAMP\n- Garansi ON 15 Hari (1x Replace)\n- VPS Aktif 30 Hari\n- VPS Pasti Awet (Bill PayPal)",
+    "thumbnail": "https://tmpfiles.org/dl/3149857/1750909378816.jpg",
+    "price": 35000
+  },
+  {
+    "_id": "vps-do-3",
+    "name": "VPS Digital Ocean V3",
+    "description": "VPS Digital Ocean dengan spesifikasi 4 CPU | 8 GB RAM | 5 TB Bandwidth - 1 Bulan\n- Free Install Panel Pterodactyl\n- Free Install Node/Wings\n- Free Request: Reg, OS, Versi\n- Free Request Nama Subdomain\n- Free Egg Bot WhatsApp V23+\n- Free Egg Minecraft/SAMP\n- Garansi ON 15 Hari (1x Replace)\n- VPS Aktif 30 Hari\n- VPS Pasti Awet (Bill PayPal)",
+    "thumbnail": "https://tmpfiles.org/dl/3149857/1750909378816.jpg",
+    "price": 50000
+  },
+  {
+    "_id": "vps-do-4",
+    "name": "VPS Digital Ocean V4",
+    "description": "VPS Digital Ocean dengan spesifikasi 4 CPU | 16 GB RAM | 8 TB Bandwidth - 1 Bulan\n- Free Install Panel Pterodactyl\n- Free Install Node/Wings\n- Free Request: Reg, OS, Versi\n- Free Request Nama Subdomain\n- Free Egg Bot WhatsApp V23+\n- Free Egg Minecraft/SAMP\n- Garansi ON 15 Hari (1x Replace)\n- VPS Aktif 30 Hari\n- VPS Pasti Awet (Bill PayPal)",
+    "thumbnail": "https://tmpfiles.org/dl/3149857/1750909378816.jpg",
+    "price": 65000
   }
 ]
