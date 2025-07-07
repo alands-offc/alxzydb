@@ -193,5 +193,21 @@
   "description": "VPS Digital Ocean dengan spesifikasi 4 CPU | 16 GB RAM | 8 TB Bandwidth - 1 Bulan\n- Free Install Panel Pterodactyl\n- Free Install Node/Wings\n- Free Request: Reg, OS, Versi\n- Free Request Nama Subdomain\n- Free Egg Bot WhatsApp V23+\n- Free Egg Minecraft/SAMP\n- Garansi ON 15 Hari (1x Replace)\n- VPS Aktif 30 Hari\n- VPS Pasti Awet (Bill PayPal)",
   "thumbnail": "https://tmpfiles.org/dl/3149857/1750909378816.jpg",
   "price": 65000
+},
+{
+  "_id": "digitalocean-paypal-3droplet",
+  "name": "Akun Digital Ocean Paypal 3 Droplet",
+  "description": "🕐» Aktif 60 Hari\n» Garansi 5 Hari\n» Bersaldo $200/Kosongan\n» Bisa Bikin VPS RAM 1 - 32",
+  "thumbnail": "https://files.catbox.moe/ftih7t.jpg",
+  "price": 110000,
+  "category": "hosting"
+},
+{
+  "_id": "digitalocean-paypal-10droplet",
+  "name": "Akun Digital Ocean Paypal 10 Droplet",
+  "description": "🕐» Aktif 60 Hari\n» Garansi 5 Hari\n» Bersaldo $200/Kosongan\n» Bisa Bikin VPS RAM 1 - 32",
+  "thumbnail": "https://files.catbox.moe/ftih7t.jpg",
+  "price": 140000,
+  "category": "hosting"
 }
 ]
